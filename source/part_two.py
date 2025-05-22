@@ -1,4 +1,4 @@
-from part_one import decode_strand, encode_strand
+from source.part_one import decode_strand, encode_strand
 
 def driver():
     print("-------------------------")
